@@ -1,0 +1,7 @@
+*.jpg
+*.mp3
+*.log 
+*.tmp 
+*.swp 
+/build/ 
+/target/
